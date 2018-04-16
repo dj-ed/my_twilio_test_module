@@ -1,4 +1,4 @@
-README.txt
+README.md
 ==========
 The 'My Twilio' module provides integration with the Twilio cloud communication
 platform providing your users two-factor authentication via SMS.
