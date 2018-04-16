@@ -1,0 +1,4 @@
+name = My Twilio
+description = Two-factor authentication verifies your user's identity via 'Twilio' service
+core = 7.x
+package = My Twilio
